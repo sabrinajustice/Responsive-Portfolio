@@ -10,7 +10,7 @@
 }
 
 body {
-    background: URL(./assets/images/pexels-photo-531880.jpeg);
+    background: URL(../images/pexels-photo-531880.jpeg);
     font-size: 18px;
     line-height: 34px;
     
@@ -71,7 +71,7 @@ h3 {
     
     height: 180px;
     width: 250px;
-    background-image: url(./assets/images/app1a.png);
+    background-image: url(../images/app1a.png);
     margin-top: 1%;
     margin-left: 1%;
     float: left;
