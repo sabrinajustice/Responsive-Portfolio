@@ -1,5 +1,6 @@
 .panel-default{
     align-content: center;
+    float: right;
 }
 .panel-body {
     background: #2b0dd3;
@@ -9,7 +10,7 @@
 }
 
 body {
-    background: "assets/images/pexels-photo-531880.jpeg";
+    background: URL(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg);
     font-size: 18px;
     line-height: 34px;
     
@@ -63,6 +64,158 @@ h3 {
     margin-bottom: 0;
     font-weight: 300;
     float: left;
+}
+
+
+#work1 {
+    
+    height: 180px;
+    width: 250px;
+    background-image: url(../images/app1a.png);
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+}
+
+#work2 {
+    
+    
+    height: 180px;
+    width: 250px;
+    background-image: url(../images/app2a.png);
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+}
+
+#work3 {
+    
+    height: 180px;
+    width: 250px;
+    background-image: url(../images/app3a.png);
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+    
+}
+
+#work4 {
+    
+    height: 180px;
+    width: 250px;
+    background-image: url(../images/app4a.png);
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+    
+}
+
+#work5 {
+    
+    height: 180px;
+    width: 250px;
+    background-image: url(../images/app5a.png);
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+
+}
+
+#work6 {
+    
+    height: 180px;
+    width: 250px;
+    background-image: url(../images/app6a.png);
+    margin-top: 1%;
+    margin-left: 1%;
+    float: left;
+    
+   
+}
+
+#banner1 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 185px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner2 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 185px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner3 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 185px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner4 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 185px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner5 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 185px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner6 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 185px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#bc-1 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-2 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-3 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-4 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-5 {
+    position: relative;
+    top: 10px;
 }
 
 .img-circle {
